@@ -1,0 +1,25 @@
+body {
+    font-size: 2em;
+}
+
+h1 {
+    text-align: center;
+    border-bottom-style: solid;
+}
+
+table {
+    border-style: solid;
+    border-collapse: collapse;
+    font-size: 1em;
+}
+
+th {
+    background-color: cornflowerblue;
+    padding: 0.5em; border-style: solid;
+}
+
+td {
+    border-style: solid;
+    padding: 0.5em;
+    text-align: center;
+}

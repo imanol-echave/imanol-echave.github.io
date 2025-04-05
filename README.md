@@ -1,2 +1,2 @@
 # imanol-echave.github.io
-My personal GitHub website
+Mi página personal en GitHub. De momento no hay gran cosa. Tan solo algunas tablas de mis estudios de Japonés, con las que aprovecho para repasar.
